@@ -1,0 +1,17 @@
+
+
+
+git init [On branch master - Initial commit, nothing to commit (create/copy files and use "git add" to track)]
+
+git remote add https://github.com/username/project.git
+
+git pull origin master
+
+touch test
+
+git add test
+
+git commit -m "Adding file for test purposes only."
+
+
+git status
